@@ -1,2 +1,1 @@
-# arduino-pid
-A PID controller library for Arduino's.
+# PID Controller Library for Arduino’s
