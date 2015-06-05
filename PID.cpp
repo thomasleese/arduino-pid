@@ -1,3 +1,9 @@
+/*
+  PID.cpp - Library implementing a PID controller.
+  Created by Tom Leese, June 5, 2015.
+  Released under the MIT License.
+*/
+
 #include <Arduino.h>
 
 #include "PID.h"
